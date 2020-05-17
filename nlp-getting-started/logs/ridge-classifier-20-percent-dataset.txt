@@ -1,0 +1,53 @@
+INFO:root:Loading the dataset.
+(1523, 5)
+(1523, 6773)
+The co-occurence matrix size:
+ (6773, 6773)
+INFO:root:The number of eigenvectors used are, 20
+INFO:root:The scores on cv set:, [0.55787863 0.48293963 0.57457983]
+INFO:root:Average score:, 0.5384660326096787
+INFO:root:The number of eigenvectors used are, 50
+Dimension of word vectors:  20
+The scores on cv set:  [0.55787863 0.48293963 0.57457983]
+Average score:  0.5384660326096787
+INFO:root:The scores on cv set:, [0.58615462 0.54329897 0.57367593]
+INFO:root:Average score:, 0.5677098411335809
+INFO:root:The number of eigenvectors used are, 75
+Dimension of word vectors:  50
+The scores on cv set:  [0.58615462 0.54329897 0.57367593]
+Average score:  0.5677098411335809
+INFO:root:The scores on cv set:, [0.58672156 0.54395036 0.57996854]
+INFO:root:Average score:, 0.5702134878346858
+INFO:root:The number of eigenvectors used are, 100
+Dimension of word vectors:  75
+The scores on cv set:  [0.58672156 0.54395036 0.57996854]
+Average score:  0.5702134878346858
+INFO:root:The scores on cv set:, [0.58788481 0.55046826 0.57007376]
+INFO:root:Average score:, 0.5694756101456474
+INFO:root:The number of eigenvectors used are, 150
+Dimension of word vectors:  100
+The scores on cv set:  [0.58788481 0.55046826 0.57007376]
+Average score:  0.5694756101456474
+INFO:root:The scores on cv set:, [0.58213552 0.57780083 0.55376344]
+INFO:root:Average score:, 0.5712332647832322
+INFO:root:The number of eigenvectors used are, 200
+Dimension of word vectors:  150
+The scores on cv set:  [0.58213552 0.57780083 0.55376344]
+Average score:  0.5712332647832322
+INFO:root:The scores on cv set:, [0.59011329 0.57674419 0.58686441]
+INFO:root:Average score:, 0.5845739593663623
+INFO:root:The number of eigenvectors used are, 250
+Dimension of word vectors:  200
+The scores on cv set:  [0.59011329 0.57674419 0.58686441]
+Average score:  0.5845739593663623
+INFO:root:The scores on cv set:, [0.60633484 0.5945674  0.61220159]
+INFO:root:Average score:, 0.6043679458558181
+INFO:root:The number of eigenvectors used are, 300
+Dimension of word vectors:  250
+The scores on cv set:  [0.60633484 0.5945674  0.61220159]
+Average score:  0.6043679458558181
+INFO:root:The scores on cv set:, [0.6062753  0.60168234 0.60704892]
+INFO:root:Average score:, 0.6050021869138037
+Dimension of word vectors:  300
+The scores on cv set:  [0.6062753  0.60168234 0.60704892]
+Average score:  0.6050021869138037

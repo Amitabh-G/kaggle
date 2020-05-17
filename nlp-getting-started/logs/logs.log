@@ -1,0 +1,284 @@
+2020-05-15 01:44:36,729 The classifer trained is:, LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2020-05-15 01:44:36,729 The number of eigenvectors used are, 100
+2020-05-15 01:50:36,536 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 01:50:36,536 The number of eigenvectors used are, 100
+2020-05-15 01:50:39,775 Successfully did PCA of the mean-centered co-occurence matrix
+2020-05-15 01:50:40,282 Started the cross validation procedure.
+2020-05-15 01:50:51,312 The scores on cv set:, [0.538      0.56200787 0.57300552]
+2020-05-15 01:50:51,313 Average score:, 0.5576711311111199
+2020-05-15 01:50:51,313 The number of eigenvectors used are, 200
+2020-05-15 01:50:54,424 Successfully did PCA of the mean-centered co-occurence matrix
+2020-05-15 01:50:54,945 Started the cross validation procedure.
+2020-05-15 01:51:15,750 The scores on cv set:, [0.53753754 0.56185313 0.57228916]
+2020-05-15 01:51:15,751 Average score:, 0.5572266079281821
+2020-05-15 01:51:15,752 The number of eigenvectors used are, 300
+2020-05-15 01:51:20,277 Successfully did PCA of the mean-centered co-occurence matrix
+2020-05-15 01:51:21,270 Started the cross validation procedure.
+2020-05-15 01:51:56,877 The scores on cv set:, [0.53753754 0.56256158 0.57228916]
+2020-05-15 01:51:56,877 Average score:, 0.5574627568395746
+2020-05-15 01:51:56,878 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 01:51:56,879 The number of eigenvectors used are, 100
+2020-05-15 01:52:00,767 Successfully did PCA of the mean-centered co-occurence matrix
+2020-05-15 01:52:01,819 Started the cross validation procedure.
+2020-05-15 01:52:01,921 The scores on cv set:, [0.56350806 0.59407832 0.57323498]
+2020-05-15 01:52:01,923 Average score:, 0.5769404559055676
+2020-05-15 01:52:01,923 The number of eigenvectors used are, 200
+2020-05-15 01:52:05,728 Successfully did PCA of the mean-centered co-occurence matrix
+2020-05-15 01:52:06,372 Started the cross validation procedure.
+2020-05-15 01:52:06,539 The scores on cv set:, [0.57198825 0.61481136 0.56076759]
+2020-05-15 01:52:06,539 Average score:, 0.5825224007100355
+2020-05-15 01:52:06,539 The number of eigenvectors used are, 300
+2020-05-15 01:52:10,411 Successfully did PCA of the mean-centered co-occurence matrix
+2020-05-15 01:52:11,020 Started the cross validation procedure.
+2020-05-15 01:52:11,214 The scores on cv set:, [0.58219178 0.60569295 0.58706986]
+2020-05-15 01:52:11,215 Average score:, 0.5916515330223749
+2020-05-15 01:53:22,883 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 01:53:22,883 The number of eigenvectors used are, 100
+2020-05-15 01:55:22,036 Successfully did PCA of the mean-centered co-occurence matrix
+2020-05-15 01:55:22,829 Started the cross validation procedure.
+2020-05-15 01:55:48,576 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 01:55:48,576 The number of eigenvectors used are, 100
+2020-05-15 01:59:06,649 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 01:59:06,649 The number of eigenvectors used are, 100
+2020-05-15 02:02:14,178 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 02:02:14,178 The number of eigenvectors used are, 100
+2020-05-15 02:02:14,710 Started the cross validation procedure.
+2020-05-15 02:02:25,354 The scores on cv set:, [0.5278654  0.52133195 0.54717976]
+2020-05-15 02:02:25,354 Average score:, 0.5321257027461909
+2020-05-15 02:02:25,355 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 02:02:25,355 The number of eigenvectors used are, 200
+2020-05-15 02:03:16,560 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 02:03:16,560 The number of eigenvectors used are, 100
+2020-05-15 02:08:44,310 Started the cross validation procedure.
+2020-05-15 02:09:13,622 The scores on cv set:, [0.53673469 0.55193483 0.58093797]
+2020-05-15 02:09:13,623 Average score:, 0.5565358311766647
+2020-05-15 02:09:13,624 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 02:09:13,625 The number of eigenvectors used are, 200
+2020-05-15 02:15:51,999 Started the cross validation procedure.
+2020-05-15 02:16:49,150 The scores on cv set:, [0.53673469 0.55193483 0.58093797]
+2020-05-15 02:16:49,151 Average score:, 0.5565358311766647
+2020-05-15 02:16:49,152 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 02:16:49,153 The number of eigenvectors used are, 300
+2020-05-15 11:02:14,332 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 11:02:14,332 The number of eigenvectors used are, 100
+2020-05-15 11:08:08,830 Started the cross validation procedure.
+2020-05-15 11:08:37,919 The scores on cv set:, [0.53673469 0.55193483 0.58093797]
+2020-05-15 11:08:37,920 Average score:, 0.5565358311766647
+2020-05-15 11:08:37,921 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 11:08:37,922 The number of eigenvectors used are, 200
+2020-05-15 11:15:29,295 Started the cross validation procedure.
+2020-05-15 11:16:26,936 The scores on cv set:, [0.53673469 0.55193483 0.58093797]
+2020-05-15 11:16:26,937 Average score:, 0.5565358311766647
+2020-05-15 11:16:26,940 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 11:16:26,941 The number of eigenvectors used are, 300
+2020-05-15 11:31:45,197 Started the cross validation procedure.
+2020-05-15 11:33:00,934 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 11:33:00,934 The number of eigenvectors used are, 300
+2020-05-15 11:38:04,116 Started the cross validation procedure.
+2020-05-15 11:38:35,232 The scores on cv set:, [0.53673469 0.55193483 0.58093797]
+2020-05-15 11:38:35,233 Average score:, 0.5565358311766647
+2020-05-15 11:38:35,233 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 11:38:35,233 The number of eigenvectors used are, 300
+2020-05-15 11:43:32,358 Started the cross validation procedure.
+2020-05-15 11:43:32,537 The scores on cv set:, [0.6062753  0.60168234 0.60704892]
+2020-05-15 11:43:32,538 Average score:, 0.6050021869138037
+2020-05-15 12:00:33,848 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 12:00:33,849 The number of eigenvectors used are, 300
+2020-05-15 12:08:33,593 Started the cross validation procedure.
+2020-05-15 12:09:08,823 The scores on cv set:, [0.5334696  0.57540826 0.57852077]
+2020-05-15 12:09:08,823 Average score:, 0.5624662092060849
+2020-05-15 12:09:08,824 The classifer trained is:, SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+2020-05-15 12:09:08,825 The number of eigenvectors used are, 400
+2020-05-15 12:16:50,032 Started the cross validation procedure.
+2020-05-15 12:17:30,156 The scores on cv set:, [0.5334696  0.57540826 0.57924051]
+2020-05-15 12:17:30,156 Average score:, 0.5627061213124124
+2020-05-15 12:17:30,157 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 12:17:30,158 The number of eigenvectors used are, 300
+2020-05-15 12:24:48,145 Started the cross validation procedure.
+2020-05-15 12:24:48,326 The scores on cv set:, [0.61890838 0.61160275 0.58033315]
+2020-05-15 12:24:48,327 Average score:, 0.6036147631600376
+2020-05-15 12:24:48,328 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 12:24:48,328 The number of eigenvectors used are, 400
+2020-05-15 12:32:09,311 Started the cross validation procedure.
+2020-05-15 12:32:09,570 The scores on cv set:, [0.59418838 0.59008346 0.5658588 ]
+2020-05-15 12:32:09,570 Average score:, 0.5833768771839519
+2020-05-15 13:39:19,066 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 13:39:19,066 The number of eigenvectors used are, 300
+2020-05-15 13:39:25,611 Started the cross validation procedure.
+2020-05-15 13:39:25,850 The scores on cv set:, [0.58846723 0.5631769  0.60602964]
+2020-05-15 13:39:25,851 Average score:, 0.5858912525802533
+2020-05-15 13:41:01,596 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 13:41:01,596 The number of eigenvectors used are, 300
+2020-05-15 13:41:07,675 Started the cross validation procedure.
+2020-05-15 13:41:07,855 The scores on cv set:, [0.58846723 0.5631769  0.60602964]
+2020-05-15 13:41:07,856 Average score:, 0.5858912525802533
+2020-05-15 13:41:31,885 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 13:41:31,886 The number of eigenvectors used are, 300
+2020-05-15 13:41:38,116 Started the cross validation procedure.
+2020-05-15 13:41:38,340 The scores on cv set:, [0.58846723 0.5631769  0.60602964]
+2020-05-15 13:41:38,341 Average score:, 0.5858912525802533
+2020-05-15 13:42:26,368 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 13:42:26,368 The number of eigenvectors used are, 300
+2020-05-15 13:42:32,197 Started the cross validation procedure.
+2020-05-15 13:42:32,372 The scores on cv set:, [0.58846723 0.5631769  0.60602964]
+2020-05-15 13:42:32,373 Average score:, 0.5858912525802533
+2020-05-15 13:44:50,000 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 13:44:50,000 The number of eigenvectors used are, 300
+2020-05-15 13:44:55,440 Started the cross validation procedure.
+2020-05-15 13:44:55,454 The scores on cv set:, [0.59375    0.45283019 0.53968254]
+2020-05-15 13:44:55,455 Average score:, 0.5287542427872616
+2020-05-15 13:45:15,848 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 13:45:15,849 The number of eigenvectors used are, 300
+2020-05-15 13:45:21,204 Started the cross validation procedure.
+2020-05-15 13:45:21,218 The scores on cv set:, [0.59375    0.45283019 0.53968254]
+2020-05-15 13:45:21,218 Average score:, 0.5287542427872616
+2020-05-15 13:56:10,017 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 13:56:10,018 The number of eigenvectors used are, 300
+2020-05-15 14:01:30,946 Started the cross validation procedure.
+2020-05-15 14:22:49,923 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 14:22:49,923 The number of eigenvectors used are, 300
+2020-05-15 14:35:55,590 Started the cross validation procedure.
+2020-05-15 14:46:23,834 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 14:46:23,835 The number of eigenvectors used are, 300
+2020-05-15 15:06:19,502 Started the cross validation procedure.
+2020-05-15 15:08:02,455 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 15:08:02,455 The number of eigenvectors used are, 300
+2020-05-15 15:39:49,798 Started the cross validation procedure.
+2020-05-15 15:41:56,253 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 15:41:56,254 The number of eigenvectors used are, 300
+2020-05-15 17:14:09,120 Started the cross validation procedure.
+2020-05-15 18:38:51,567 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-15 18:38:51,570 The number of eigenvectors used are, 300
+2020-05-15 19:48:29,101 Started the cross validation procedure.
+2020-05-16 11:45:46,643 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 11:45:46,644 The number of eigenvectors used are, 300
+2020-05-16 11:46:11,943 Started the cross validation procedure.
+2020-05-16 12:18:26,181 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 12:18:26,182 The number of eigenvectors used are, 300
+2020-05-16 13:21:08,868 Started the cross validation procedure.
+2020-05-16 13:27:18,726 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 13:27:18,728 The number of eigenvectors used are, 400
+2020-05-16 13:29:01,995 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 13:29:01,995 The number of eigenvectors used are, 400
+2020-05-16 13:39:16,783 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 13:39:16,785 The number of eigenvectors used are, 400
+2020-05-16 14:43:38,127 Started the cross validation procedure.
+2020-05-16 14:43:38,931 The scores on cv set:, [0.67605634 0.69520548 0.68452895 0.68883205 0.68765957]
+2020-05-16 14:43:38,938 Average score:, 0.6864564801402279
+2020-05-16 15:10:18,416 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 15:10:18,417 The number of eigenvectors used are, 500
+2020-05-16 16:17:11,824 Started the cross validation procedure.
+2020-05-16 16:17:12,552 The scores on cv set:, [0.67940199 0.70628183 0.69461078 0.68551842 0.70252101]
+2020-05-16 16:17:12,564 Average score:, 0.6936668074251764
+2020-05-16 18:11:05,437 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 18:11:05,438 The number of eigenvectors used are, 500
+2020-05-16 19:15:24,598 Started the cross validation procedure.
+2020-05-16 19:31:28,053 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 19:31:28,062 The number of eigenvectors used are, 600
+2020-05-16 21:06:43,581 Started the cross validation procedure.
+2020-05-16 21:06:44,419 The scores on cv set:, [0.6985173  0.71005917 0.69250646 0.69012876 0.72620051]
+2020-05-16 21:06:44,422 Average score:, 0.7034824381149117
+2020-05-16 22:32:22,188 The classifer trained is:, RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, normalize=False, random_state=None,
+                solver='auto', tol=0.001)
+2020-05-16 22:32:22,188 The number of eigenvectors used are, 700
+2020-05-17 01:42:24,906 Started the cross validation procedure.
+2020-05-17 01:42:26,021 The scores on cv set:, [0.70140612 0.71946083 0.69854825 0.70417732 0.73138075]
+2020-05-17 01:42:26,024 Average score:, 0.7109946543944987
